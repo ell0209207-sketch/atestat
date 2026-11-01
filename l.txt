@@ -1,0 +1,58 @@
+<html>
+ <head>
+     <title> Grigore Bota
+     </title>
+  </head>
+  <body  background="imagini/bkg 2.png"> 
+<br> <br> <br> <br>
+  <table border="1" height="" width="100%" align="center"> 
+<tr> 
+<td> <font size="4" color="gray"> <img src= "imagini/gb.jpg" width="100%" height="100%" align="right"> </font> </td>
+<td> <font size="4" color="gray"> În perioada aprilie-august 2000, pe ambele maluri ale râului Săsar şi în apropierea Gării din Baia Mare, au fost găsite unsprezece cadavre, <br> în diferite stadii de descompunere. </font> </td>
+<td> <font size="4" color="gray"> Acest lucru a creat o adevărată psihoză în oraş, malurile Săsarului, de obicei loc de plimbare, joacă şi plajă pentru localnici, devenind pustii.  </font> </td>
+<td> <font size="4" color="gray"> În toate cazurile cadavrele au fost la început neidentificate, reuşindu-se identificarea prin mijloace dactiloscopice (mai puţin în două cazuri, privind cadavrele cu identititate necunoscută, găsite la 18 august 2000). </font> </td>
+</table>
+<br> <br>
+<table border="1" height="" width="100%" align="center"> 
+<tr> 
+<td> <font size="4" color="gray"> În urma activităţilor specifice desfăşurate de lucrătorii de poliţie, s-a reuşit prinderea în noaptea de 21/22.08.2000, în zona staţiei C.F.R. Baia Mare, a autorului crimelor, în persoana numitului Bota Grigore, de 41 ani, din municipiul Baia Mare, în momentul în care încerca să-l lovească în cap, cu o piatră, pe un „boschetar”.  
+</font> </td>
+<td> <font size="4" color="gray">  În momentul în care a fost prins de patrula de poliţie, Bota Grigore a afirmat: “Jur pe cruce şi pe Evanghelie că n-am făcut nimic. Nu poţi trece de boschetari, te împiedici de ei peste tot, în Gară, în Săsar. Te înjură, nu te mai poţi plimba de ei. <br> Dacă aş avea un pistol i-aş împuşca pe toţi!” <br>
+În continuare, redau  fragmente din Sentinţea penală nr. 47 din 27 februarie 2002, prin care Tribunalul Maramureş aplică inculpatului Bota Grigore, pedeapsa detenţiunii pe viaţă, pentru săvârşirea infracţiunii de omor deosebit de grav, prevăzut de art. 176, alin. 1, lit. „c” Cod Penal.
+ </font> </td>
+<td> <font size="4" color="gray"> <img src= "imagini/gb 6.jpg" width="100%" height="100%" align="right"> </font> </td> 
+</tr>
+</table>
+<table border="1" height="" width="100%" align="center">
+<tr> 
+<td> <font size="4" color="gray"> <img src= "imagini/gb.jpg" width="100%" height="100%" align="right"> </font> </td>
+<td> <font size="4" color="gray"> </font> </td></tr>
+</table>
+<table border="1" height="" width="100%" align="center">
+<tr>
+<td> <font size="4" color="gray"> 
+În cazul ucigaşului de boschetari – Bota Grigore, profilul psihologic formulat anterior prinderii acestuia a fost următorul:
+<br>
+– infractor bărbat; <br>
+– bolnav psihic pe fond sexual sau cu deviaţie sexuală (victimele au fost găsite cu şliţul pantalonilor desfăcut sau cu pantalonii traşi în jos); <br>
+– laş, nu lasă victimei nici o şansă (lovea cu piatra direct din mână, în timp ce victima dormea); <br>
+– putea fi un homosexual timid sau care nu-şi mai găsea un partener; <br>
+– căuta victime, care întotdeauna au fost sub influenţa alcoolului şi probabil consuma băuturi  alcoolice cu ele.
+ </font> </td>
+<td> <font size="4" color="gray"> <img src= "imagini/gb 4.jpg" width="100%" height="100%" align="right"> </font> </td>
+ </font> </td>
+</tr>
+</table>
+<table border="1" height="" width="100%" align="center">
+<tr>
+<td> <font size="4" color="gray"> <img src= "imagini/gb 5.jpg" width="100%" height="100%" align="right"> </font> </td>
+<td> <font size="4" color="gray">
+    După identificarea lui Bota Grigore, cercetările au evidenţiat următoarele: 
+– cel în cauză a fost agresat sexual încă din minorat, fără a avea vreodată o viaţă sexuală normală; <br>
+– în armată era cunoscut ca homosexual (sex oral); <br>
+– când s-a căsătorit (la 26 de ani), a făcut-o de formă, fără a avea o viaţă sexuală normală. <br> Şi după ce s-a căsătorit, a frecventat baia comunală unde-şi găsea parteneri. În anul 1989, a fost prins în flagrant în timp ce acostase un bărbat cu care a întreţinut o relaţie sexuală pe cale orală, fiind condamnat contravenţional. <br> Pe măsură ce a înaintat în vârstă, şi-a găsit tot mai greu parteneri de sex. A început să frecventeze locurile virane, unde-şi găsea parteneri printre boschetari, care, de cele mai multe ori, acceptau o partidă de sex oral pentru o sticlă de băutură. Când „propozabilii” ripostau fizic sau verbal, Bota Grigore îi anihila prin lovire directă, cu pietre găsite în câmpul infracţional. <br> În cazul lui Bota Grigore avem o „dedublare” de personalitate, poate clasică. În familie şi la serviciu era un om deosebit: bun soţ (în afara tragediei sexuale, pe care soţia o accepta datorită celorlalte calităţi), bun cofetar şi bucătar, un partener spiritual cu un umor fin şi inteligent, bun coleg, iar cealaltă faţă este a criminalului care ucide fără scrupule oameni, fără o posibilitate efectivă de a se apăra.
+</font>
+</td> 
+</tr>
+</body>
+</html>
